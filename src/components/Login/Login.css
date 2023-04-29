@@ -1,0 +1,18 @@
+.formdiv{
+    width: 600px;
+    margin: auto;
+    border: 1px solid red;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    width: 500px;
+    margin: auto;
+}
+input{
+    width: 400px;
+    height: 35px;
+    margin-top: 15px;
+}
